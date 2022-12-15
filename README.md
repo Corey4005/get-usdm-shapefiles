@@ -13,7 +13,7 @@ git clone https://github.com/Corey4005/get-usdm-shapefiles.git
 Open a command prompt and enter a starting and end date:
 
 ```python
-python get_usdm.py 20000104 20201229 #example timestamp representing startdate 2000-01-04 and enddate 20201229 
+python get_usdm.py 20000104 20201229 #example timestamp representing startdate 2000-01-04 and enddate 2020-12-29 (20 years!) 
 ```
 This script will create a file called `usdm_links.txt` containing all of the links that wget could call to download US drought monitor shapefiles. 
 
