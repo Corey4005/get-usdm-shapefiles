@@ -11,9 +11,6 @@ The link for GIS shapefile data:
     
 https://droughtmonitor.unl.edu/DmData/GISData.aspx
 
-Example link string for zip file containing CONUS shapefile
-https://droughtmonitor.unl.edu/data/shapefiles_m/USDM_20001226_M.zip
-
 @author: cwalker
 """
 
