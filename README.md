@@ -23,3 +23,7 @@ Then, you can call wget on the textfile and retreive the shapefiles from USDM RE
 wget -i usdm_links.txt -P shapefiles/ --progress=bar:force:noscroll
 ```
 All of the shapefiles between the start and end date will be downloaded to the `shapefiles` directory!
+
+# Cool statistic
+
+I was able to download 20 years of USDM shapefiles to my hard drive in 54 seconds using this script!
