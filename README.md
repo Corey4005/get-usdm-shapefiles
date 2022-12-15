@@ -26,4 +26,4 @@ All of the shapefiles between the start and end date will be downloaded to the `
 
 # Cool statistic
 
-I was able to download 20 years of USDM shapefiles to my hard drive in 54 seconds using this script!
+I was able to download 20 years of USDM shapefiles to my hard drive in 34 seconds using this script!
