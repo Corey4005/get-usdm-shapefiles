@@ -24,7 +24,7 @@ wget -i usdm_links.txt -P shapefiles/ --progress=bar:force:noscroll
 ```
 All of the shapefiles between the start and end date will be downloaded to the `shapefiles` directory!
 
-In order to unzip the shapefiles so that you can get the .shp, .prj, .xml, .sbn, .dbf files, use the following command from command line:
+In order to unzip the shapefiles so that you can get the .shp, .prj, .xml, .sbn, .dbf files, open a command prompt and enter the following:
 
 ```python
 python unzip.py
