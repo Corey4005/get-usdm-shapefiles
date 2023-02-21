@@ -1,0 +1,6 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors: "Corey Walker"
+title: "My Research Software"
+date-released: 2023-1-4
+url: "https://github.com/Corey4005/get-usdm-shapefiles"
